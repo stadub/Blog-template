@@ -1,6 +1,6 @@
 # Haacked.com
 
-This is my blog. There are many like it, but this one is mine.
+This is hiss blog. There are many like it, but this one is his. I going to create simelar one - but mine:)
 
 ## Run it locally
 
