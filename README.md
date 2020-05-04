@@ -1,6 +1,6 @@
 # Haacked.com
 
-This is hiss blog. There are many like it, but this one is his. I going to create simelar one - but mine:)
+This is his blog. There are many like it, but this one is his. I going to create simelar one - but mine:)
 
 ## Run it locally
 
